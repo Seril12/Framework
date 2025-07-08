@@ -1,3 +1,11 @@
+// npm init -y
+
+// npm install axios dotenv
+
+// node server.js
+
+
+
 require('dotenv').config();
 const axios = require('axios');
 const http = require('http');
